@@ -47,3 +47,10 @@ By running simulations with different grid sizes $n$ and open grid probability $
 
   
 Throughout this project, we use Python as our programming language, also utilised NumPy and Matplotlib to help generate grids and simulations. We conduct topic research, observate model behavior, analyse data and explore the emergence of connectivity.
+
+------
+## Contribution
+This project was completed as part of a group assignment. I was responsible for
+the implementation and analysis in **Section 3** and **Section 5**, including
+the percolation simulation, BFS/DFS connectivity checks, and the corresponding
+Monte Carlo experiments.
