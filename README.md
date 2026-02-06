@@ -11,7 +11,7 @@ $ F_n(p) = \mathbb{P}(\text{there is a yellow path connecting left to right on a
 $\lim_{n \to \infty} F_n(p) = F(p),$
 This represents the probability of an open path connecting the left and right boundaries. Moreover, we investigate different situations and extensions of the model.
 
-By running simulations with different grid size $n$ and open grid probability $p$, we can estimate the critical probability $p_c$. When a critical percolation occurs, i.e. $p$ is around $p_c$ ,$F_n(p)$ shows sharp transition. This sudden change in behaviour is called **"phase transition"**
+By running simulations with different grid sizes $n$ and open grid probability $p$, we can estimate the critical probability $p_c$. When a critical percolation occurs, i.e. $p$ is around $p_c$, $F_n(p)$ shows sharp transition. This sudden change in behaviour is called **"phase transition"**
 
 ----
 ### This project is divided into six sections, which focus on:
