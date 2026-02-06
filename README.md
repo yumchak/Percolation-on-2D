@@ -1,3 +1,5 @@
+## BACKGROUND
+
 **Percolation theory** describes the connectivity of a randomly structured network or lattice. The mathematical study of percolation has been widely applied in fields such as materials science, epidemiology, earth science.
 In real life, it is often used to describe the flow of liquid through in soil or the process of coffee brewing. 
 
