@@ -8,7 +8,7 @@ We build a percolation model in an $n \times n$ square grid. Each site of the $n
 
 In this percolation model, it is only possible to connect through adjacent and open sites. We aim to study the probability $F_n(p)$ that there is a yellow path connecting the left boundary to the right boundary of the grid.
 
-$ F_n(p) = \mathbb{P}(\text{there is a yellow path connecting left to right on an } n \times n \text{ grid}). $
+$F_n(p) = \mathbb{P}(\text{there is a yellow path connecting left to right on an } n \times n \text{ grid})$
 , which 
 $\lim_{n \to \infty} F_n(p) = F(p),$
 This represents the probability of an open path connecting the left and right boundaries. Moreover, we investigate different situations and extensions of the model.
